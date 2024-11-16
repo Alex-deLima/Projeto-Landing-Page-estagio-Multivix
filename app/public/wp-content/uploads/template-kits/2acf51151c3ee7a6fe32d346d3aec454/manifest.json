@@ -1,0 +1,1007 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Grochy \u2013 Organic Food & Grocery Store Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/grochy\/template-kit\/home\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About",
+            "screenshot": "screenshots\/about.jpg",
+            "source": "templates\/about.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/grochy\/template-kit\/about\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Shop",
+            "screenshot": "screenshots\/shop.jpg",
+            "source": "templates\/shop.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/grochy\/template-kit\/shop\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Promo",
+            "screenshot": "screenshots\/promo.jpg",
+            "source": "templates\/promo.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/grochy\/template-kit\/promo\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Team",
+            "screenshot": "screenshots\/team.jpg",
+            "source": "templates\/team.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/grochy\/template-kit\/team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/grochy\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.jpg",
+            "source": "templates\/blog.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/grochy\/template-kit\/blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Post",
+            "screenshot": "screenshots\/single-post.jpg",
+            "source": "templates\/single-post.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/grochy\/template-kit\/single-post\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Metform Contact",
+            "screenshot": "screenshots\/metform-contact.jpg",
+            "source": "templates\/metform-contact.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/grochy\/template-kit\/metform-contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/grochy\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/grochy\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/grochy\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "404",
+            "screenshot": "screenshots\/404.jpg",
+            "source": "templates\/404.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/grochy\/template-kit\/404\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Jeg Elementor Kit",
+            "version": "2.4.1",
+            "file": "jeg-elementor-kit\/jeg-elementor-kit.php",
+            "author": "Jegstudio"
+        },
+        {
+            "name": "MetForm",
+            "version": "1.5.4",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "WooCommerce",
+            "version": "5.7.2",
+            "file": "woocommerce\/woocommerce.php",
+            "author": "Automattic"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.5.3",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "grocery-store-bags-with-vegetables-on-table-at-kit-HDRCUJX-1.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/grochy\/wp-content\/uploads\/sites\/254\/2022\/04\/grocery-store-bags-with-vegetables-on-table-at-kit-HDRCUJX-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 119822,
+            "dimensions": [
+                1920,
+                1281
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-HDRCUJX"
+        },
+        {
+            "filename": "concrete8-texture-background-grunge-texture-ZC32RXB.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/grochy\/wp-content\/uploads\/sites\/254\/2022\/04\/concrete8-texture-background-grunge-texture-ZC32RXB.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/shop.json",
+                    "name": "Shop"
+                },
+                {
+                    "source": "templates\/promo.json",
+                    "name": "Promo"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 61140,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-ZC32RXB"
+        },
+        {
+            "filename": "bag-of-groceries-PS6KUY4.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/grochy\/wp-content\/uploads\/sites\/254\/2022\/04\/bag-of-groceries-PS6KUY4.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/404.json",
+                    "name": "404"
+                }
+            ],
+            "filesize": 271100,
+            "dimensions": [
+                900,
+                1069
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PS6KUY4"
+        },
+        {
+            "filename": "concrete9-texture-background-grunge-texture-ZC32RXB.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/grochy\/wp-content\/uploads\/sites\/254\/2022\/04\/concrete9-texture-background-grunge-texture-ZC32RXB.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/shop.json",
+                    "name": "Shop"
+                },
+                {
+                    "source": "templates\/promo.json",
+                    "name": "Promo"
+                }
+            ],
+            "filesize": 58500,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-ZC32RXB"
+        },
+        {
+            "filename": "groceries-G3K5SMN.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/grochy\/wp-content\/uploads\/sites\/254\/2022\/04\/groceries-G3K5SMN.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 177407,
+            "dimensions": [
+                1000,
+                666
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-G3K5SMN"
+        },
+        {
+            "filename": "concrete6-texture-background-grunge-texture-ZC32RXB.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/grochy\/wp-content\/uploads\/sites\/254\/2022\/04\/concrete6-texture-background-grunge-texture-ZC32RXB.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 58643,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-ZC32RXB"
+        },
+        {
+            "filename": "fruit-on-a-white-background-PZLXKCN.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/grochy\/wp-content\/uploads\/sites\/254\/2022\/04\/fruit-on-a-white-background-PZLXKCN.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 178790,
+            "dimensions": [
+                800,
+                897
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PZLXKCN"
+        },
+        {
+            "filename": "tin-of-mackerel-opened-PTVMFWX.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/grochy\/wp-content\/uploads\/sites\/254\/2022\/04\/tin-of-mackerel-opened-PTVMFWX.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 262023,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PTVMFWX"
+        },
+        {
+            "filename": "green-soda-can-beverage-product-packaging-4GT7TTE.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/grochy\/wp-content\/uploads\/sites\/254\/2022\/04\/green-soda-can-beverage-product-packaging-4GT7TTE.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 115303,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-4GT7TTE"
+        },
+        {
+            "filename": "groceries-in-kitchen-e1649747740536.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/grochy\/wp-content\/uploads\/sites\/254\/2022\/04\/groceries-in-kitchen-e1649747740536.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 95711,
+            "dimensions": [
+                1000,
+                1500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-YSANB83"
+        },
+        {
+            "filename": "paper-bag-with-food-P7Y9Z9M.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/grochy\/wp-content\/uploads\/sites\/254\/2022\/04\/paper-bag-with-food-P7Y9Z9M.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/shop.json",
+                    "name": "Shop"
+                },
+                {
+                    "source": "templates\/promo.json",
+                    "name": "Promo"
+                }
+            ],
+            "filesize": 214592,
+            "dimensions": [
+                800,
+                1299
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-P7Y9Z9M"
+        },
+        {
+            "filename": "plastic-shopping-basket-V37QU2F.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/grochy\/wp-content\/uploads\/sites\/254\/2022\/04\/plastic-shopping-basket-V37QU2F.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/shop.json",
+                    "name": "Shop"
+                },
+                {
+                    "source": "templates\/promo.json",
+                    "name": "Promo"
+                }
+            ],
+            "filesize": 135147,
+            "dimensions": [
+                800,
+                676
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-V37QU2F"
+        },
+        {
+            "filename": "various-vegetables-e1649747793619.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/grochy\/wp-content\/uploads\/sites\/254\/2022\/04\/various-vegetables-e1649747793619.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 205899,
+            "dimensions": [
+                1440,
+                769
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-MSK4M9R"
+        },
+        {
+            "filename": "app-MQ7PYDD.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/grochy\/wp-content\/uploads\/sites\/254\/2022\/04\/app-MQ7PYDD.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/promo.json",
+                    "name": "Promo"
+                }
+            ],
+            "filesize": 140652,
+            "dimensions": [
+                1296,
+                1370
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-MQ7PYDD"
+        },
+        {
+            "filename": "various-vegetables-bread-and-milk-on-stone-table-e1649747850681.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/grochy\/wp-content\/uploads\/sites\/254\/2022\/04\/various-vegetables-bread-and-milk-on-stone-table-e1649747850681.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 191374,
+            "dimensions": [
+                1440,
+                827
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-WTXAMHL"
+        },
+        {
+            "filename": "lovely-girl-hold-bag-with-various-vegetables-and-smile-stand-in-kitchen-e1649390181606.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/grochy\/wp-content\/uploads\/sites\/254\/2022\/04\/lovely-girl-hold-bag-with-various-vegetables-and-smile-stand-in-kitchen-e1649390181606.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 99252,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-P6BV989"
+        },
+        {
+            "filename": "concrete11-texture-background-grunge-texture-ZC32RXB.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/grochy\/wp-content\/uploads\/sites\/254\/2022\/04\/concrete11-texture-background-grunge-texture-ZC32RXB-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/promo.json",
+                    "name": "Promo"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/404.json",
+                    "name": "404"
+                }
+            ],
+            "filesize": 58317,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-ZC32RXB"
+        },
+        {
+            "filename": "smiling-young-woman-enjoying-grocery-shopping-e1649747959235.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/grochy\/wp-content\/uploads\/sites\/254\/2022\/04\/smiling-young-woman-enjoying-grocery-shopping-e1649747959235.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 165922,
+            "dimensions": [
+                1440,
+                960
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-6CME8GT"
+        },
+        {
+            "filename": "many-various-fruits-on-a-black-background-e1649748025248.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/grochy\/wp-content\/uploads\/sites\/254\/2022\/04\/many-various-fruits-on-a-black-background-e1649748025248.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/promo.json",
+                    "name": "Promo"
+                }
+            ],
+            "filesize": 155611,
+            "dimensions": [
+                1440,
+                964
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-DARVYNT"
+        },
+        {
+            "filename": "food-background-with-different-vegetables-e1649748016695.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/grochy\/wp-content\/uploads\/sites\/254\/2022\/04\/food-background-with-different-vegetables-e1649748016695.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/promo.json",
+                    "name": "Promo"
+                }
+            ],
+            "filesize": 138888,
+            "dimensions": [
+                1440,
+                667
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-UCS584R"
+        },
+        {
+            "filename": "colorful-food-background-with-candies-and-bonbons-e1649748005131.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/grochy\/wp-content\/uploads\/sites\/254\/2022\/04\/colorful-food-background-with-candies-and-bonbons-e1649748005131.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/promo.json",
+                    "name": "Promo"
+                }
+            ],
+            "filesize": 178981,
+            "dimensions": [
+                1440,
+                960
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-FQEV2LA"
+        },
+        {
+            "filename": "waffles-with-fruits-breakfast-background-e1649748033104.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/grochy\/wp-content\/uploads\/sites\/254\/2022\/04\/waffles-with-fruits-breakfast-background-e1649748033104.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/promo.json",
+                    "name": "Promo"
+                }
+            ],
+            "filesize": 175354,
+            "dimensions": [
+                1440,
+                960
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PXXZFDV"
+        },
+        {
+            "filename": "woman-standing-in-front-of-street-food-cart-6898DFU.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/grochy\/wp-content\/uploads\/sites\/254\/2022\/04\/woman-standing-in-front-of-street-food-cart-6898DFU.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 175219,
+            "dimensions": [
+                1000,
+                1100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-6898DFU"
+        },
+        {
+            "filename": "smiling-young-street-vendor-A965UHU.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/grochy\/wp-content\/uploads\/sites\/254\/2022\/04\/smiling-young-street-vendor-A965UHU.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 145396,
+            "dimensions": [
+                1000,
+                1100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-A965UHU"
+        },
+        {
+            "filename": "female-staff-standing-at-bread-counter-YCSM52X.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/grochy\/wp-content\/uploads\/sites\/254\/2022\/04\/female-staff-standing-at-bread-counter-YCSM52X.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 187847,
+            "dimensions": [
+                1000,
+                1100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-YCSM52X"
+        },
+        {
+            "filename": "portrait-of-female-staff-standing-with-hands-cross-49R5VJG.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/grochy\/wp-content\/uploads\/sites\/254\/2022\/04\/portrait-of-female-staff-standing-with-hands-cross-49R5VJG.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 225153,
+            "dimensions": [
+                1000,
+                1100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-49R5VJG"
+        },
+        {
+            "filename": "portrait-of-staff-maintaining-records-on-clipboard-93JCVTU.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/grochy\/wp-content\/uploads\/sites\/254\/2022\/04\/portrait-of-staff-maintaining-records-on-clipboard-93JCVTU.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 167879,
+            "dimensions": [
+                1000,
+                1100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-93JCVTU"
+        },
+        {
+            "filename": "asian-female-barista-wear-red-apron-at-counter-bar-4T79CR7.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/grochy\/wp-content\/uploads\/sites\/254\/2022\/04\/asian-female-barista-wear-red-apron-at-counter-bar-4T79CR7.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 222650,
+            "dimensions": [
+                1000,
+                1100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-4T79CR7"
+        },
+        {
+            "filename": "portrait-of-smiling-female-staff-standing-at-bread-RKZLSC9.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/grochy\/wp-content\/uploads\/sites\/254\/2022\/04\/portrait-of-smiling-female-staff-standing-at-bread-RKZLSC9.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 182577,
+            "dimensions": [
+                1000,
+                1100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-RKZLSC9"
+        },
+        {
+            "filename": "young-smiling-shop-assistant-or-cashier-in-workwea-N2GSHQL.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/grochy\/wp-content\/uploads\/sites\/254\/2022\/04\/young-smiling-shop-assistant-or-cashier-in-workwea-N2GSHQL.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 222683,
+            "dimensions": [
+                1000,
+                1100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-N2GSHQL"
+        },
+        {
+            "filename": "flat-lay-of-eco-friendly-grocery-shopping-cotton-bags-with-organic-fruits-and-vegetable-e1649748059536.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/grochy\/wp-content\/uploads\/sites\/254\/2022\/04\/flat-lay-of-eco-friendly-grocery-shopping-cotton-bags-with-organic-fruits-and-vegetable-e1649748059536.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 222483,
+            "dimensions": [
+                800,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-MBQSC3X"
+        },
+        {
+            "filename": "logo-4S4458P-e1649747678784.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/grochy\/wp-content\/uploads\/sites\/254\/2022\/04\/logo-4S4458P-e1649747678784.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 66333,
+            "dimensions": [
+                1000,
+                401
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-4S4458P"
+        },
+        {
+            "filename": "concrete-texture-background-grunge-texture-ZC32RXB.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/grochy\/wp-content\/uploads\/sites\/254\/2022\/04\/concrete-texture-background-grunge-texture-ZC32RXB.jpg",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 93659,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-ZC32RXB"
+        },
+        {
+            "filename": "logo2-4S4458P-e1649747919365.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/grochy\/wp-content\/uploads\/sites\/254\/2022\/04\/logo2-4S4458P-e1649747919365.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 65667,
+            "dimensions": [
+                1000,
+                401
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-4S4458P"
+        },
+        {
+            "filename": "app4-1.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/grochy\/wp-content\/uploads\/sites\/254\/2022\/04\/app4-1.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 20872,
+            "dimensions": [
+                1001,
+                335
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/developer.apple.com\/app-store\/marketing\/guidelines\/"
+        },
+        {
+            "filename": "google-play-badge.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/grochy\/wp-content\/uploads\/sites\/254\/2022\/04\/google-play-badge.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 13957,
+            "dimensions": [
+                646,
+                250
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/play.google.com\/intl\/en_us\/badges\/"
+        }
+    ]
+}
